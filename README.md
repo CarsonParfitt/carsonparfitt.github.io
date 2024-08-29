@@ -1,6 +1,6 @@
 # IBM Certified Data Scientist
  
-#### Technical Skills: Basic Python, Basic SQL, Basic Power BI, Advanced Excel, Qualtrics
+#### Technical Skills: Basic Python, Basic SQL, Power BI, Advanced Excel, Qualtrics
 
 
 
