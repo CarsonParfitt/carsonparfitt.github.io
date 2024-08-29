@@ -24,7 +24,7 @@
 
 
 ## Projects
-_The following are projects that I have worked on over the course of my Data Science certificate as well as in my personal free time to continue my education and practice._
+_The following are projects that I have worked on over the course of my Data Science certification as well as in my personal free time to continue my education and practice._
 
 ### Data Analyst Projects 
 -
