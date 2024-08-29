@@ -12,6 +12,7 @@
 **Data Analyst @ Advarra  (_December 2023 - Present_)**
 
 
+
 ## Projects
 ### Data Analyst Projects 
 -
