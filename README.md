@@ -1,6 +1,8 @@
 # IBM Certified Data Scientist
  
-#### Technical Skills: Python, SQL, Power BI, Excel, Qualtrics
+#### Technical Skills: Basic Python, Basic SQL, Basic Power BI, Advanced Excel, Qualtrics
+
+
 
 ## Education
 - Data Science Professional Certificate          | IBM (_July 2024_)								       		
@@ -27,6 +29,6 @@
  
 
 ### Additional Data Science Projects 
-- 
--
+- [Investigating Fandango Movie Ratings](https://github.com/CarsonParfitt/carsonparfitt.github.io/blob/8e06d8c360143d9653d5b57558f9ae850e56cbeb/Additional%20DS%20Projects/Guided%20Project%20Investigating%20Fandango%20Movie%20Ratings.ipynb)
+- [SQL Querying Data](https://github.com/CarsonParfitt/carsonparfitt.github.io/blob/863b0866b1a8fcd70a1ef808be0c1ea1a9ff9815/Additional%20DS%20Projects/SQL%20Querying%20Data.pdf)
 
