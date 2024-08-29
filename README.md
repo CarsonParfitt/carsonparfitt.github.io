@@ -7,7 +7,7 @@
 -  CAMP	| PMI (_2023_)	 			        		
 -  B.S., Recreation Tourism and Events Management | Central Washington University (_June 2019_)
 
-## Work Experience
+## Work Experience (In Data)
 **Data Analyst @ Advarra  (_December 2023 - Present_)**
 
 
