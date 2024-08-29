@@ -9,6 +9,14 @@
 - Certified Associate in Project Management	     | PMI (_2023_)	 			        		
 - B.S., Recreation Tourism and Events Management | Central Washington University (_June 2019_)
 
+ ### Ongoing Education:
+ **Courses In Progess/planning to take
+ - Linear Algebra for Machine Learning and Data Science
+ - Probability & Statistics for Machine Learning & Data Science
+ - IBM Machine Learning Professional Certificate
+ - Tableau Business Intelligence Analyst Professional Certificate
+
+
 
 ## Work Experience (In Data)
 **Data Analyst @ Advarra  (_December 2023 - Present_)**
