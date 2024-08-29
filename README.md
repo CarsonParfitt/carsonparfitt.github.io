@@ -19,8 +19,8 @@
 
 
 ### IBM Data Science Certification projects
-- ###[Data Science Capstone ]([/IBM-Data-Science-Capstone-SpaceX/ds-capstone-carson parfitt.pdf](https://github.com/CarsonParfitt/carsonparfitt.github.io/tree/bbdc833c0570aea13cfc490028ec5f122bafc526/IBM-Data-Science-Capstone-SpaceX))
-- ###[House Sales in King County Lab](https://github.com/CarsonParfitt/carsonparfitt.github.io/blob/998d5ce516d989b1165b1be8a77ed2ed7dce8bdf/IBM%20Courses/House_Sales_in_King_Count_USA%20(1).ipynb)
+- [Data Science Capstone ]([/IBM-Data-Science-Capstone-SpaceX/ds-capstone-carson parfitt.pdf](https://github.com/CarsonParfitt/carsonparfitt.github.io/tree/bbdc833c0570aea13cfc490028ec5f122bafc526/IBM-Data-Science-Capstone-SpaceX))
+- [House Sales in King County Lab](https://github.com/CarsonParfitt/carsonparfitt.github.io/blob/998d5ce516d989b1165b1be8a77ed2ed7dce8bdf/IBM%20Courses/House_Sales_in_King_Count_USA%20(1).ipynb)
 - ###[Classification with Python Lab](
  
 
