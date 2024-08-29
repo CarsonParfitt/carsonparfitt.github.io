@@ -6,7 +6,7 @@
 
 ## Education
 - Data Science Professional Certificate          | IBM (_July 2024_)								       		
-- CAMP	                                          | PMI (_2023_)	 			        		
+- Certified Associate in Project Management	     | PMI (_2023_)	 			        		
 - B.S., Recreation Tourism and Events Management | Central Washington University (_June 2019_)
 
 
