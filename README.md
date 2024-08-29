@@ -10,7 +10,7 @@
 - B.S., Recreation Tourism and Events Management | Central Washington University (_June 2019_)
 
  ### Ongoing Education:
- _Courses In Progess/planning to take_
+ _Courses In Progess/planning to take: I would eventually like to go back to school and get my masters in Data Science_
  - Linear Algebra for Machine Learning and Data Science
  - Probability & Statistics for Machine Learning & Data Science
  - IBM Machine Learning Professional Certificate
@@ -24,12 +24,7 @@
 
 
 ## Projects
-_The following are projects that I have worked on over the course of my Data Science certification as well as in my personal free time to continue my education and practice._
-
-### Data Analyst Projects 
--
--
--
+_The following are projects that I have worked on over the course of my Data Science certification as well as in my personal free time to continue my education and practice. I do have additional Excel and Power BI work I have done in my current data analyst role upon request_
 
 
 ### IBM Data Science Certification projects
