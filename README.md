@@ -10,7 +10,7 @@
 - B.S., Recreation Tourism and Events Management | Central Washington University (_June 2019_)
 
  ### Ongoing Education:
- 'Courses In Progess/planning to take'
+ _Courses In Progess/planning to take_
  - Linear Algebra for Machine Learning and Data Science
  - Probability & Statistics for Machine Learning & Data Science
  - IBM Machine Learning Professional Certificate
