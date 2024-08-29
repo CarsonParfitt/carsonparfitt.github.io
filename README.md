@@ -18,7 +18,7 @@ With a solid foundation in data science principles from IBM’s rigorous trainin
 
 ### Ongoing Education
  
- _Courses In Progess/planning to take: I would eventually like to go back to school and get my masters in Data Science_
+ _Courses In Progess/planning to take: I would eventually like to go back to school and get my Masters in Data Science_
  - Linear Algebra for Machine Learning and Data Science
  - Probability & Statistics for Machine Learning & Data Science
  - IBM Machine Learning Professional Certificate
