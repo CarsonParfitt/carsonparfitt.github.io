@@ -1,8 +1,15 @@
 # IBM Certified Data Scientist
  
-#### Technical Skills: Basic Python, Basic SQL, Power BI, Advanced Excel, Qualtrics
+#### Technical Skills: Python, SQL, Power BI, Advanced Excel, Qualtrics
 
+Hello! I'm Carson, an aspiring data scientist with a certification from IBM in Data Science. My journey into the world of data science has been fueled by a passion for uncovering insights and solving complex problems using data.
 
+## About Me
+With a solid foundation in data science principles from IBM’s rigorous training, I've developed a diverse skill set that includes:
+
+- Data Analysis & Visualization: Proficient in analyzing and interpreting complex datasets, and presenting findings using tools like Python, SQL, and data visualization libraries.
+- Machine Learning: Hands-on experience with machine learning algorithms, including supervised and unsupervised learning techniques, and model evaluation.
+- Statistical Methods: Strong understanding of statistical analysis and hypothesis testing to derive actionable insights from data.
 
 ## Education
 - Data Science Professional Certificate           | IBM (_July 2024_)								       		
@@ -18,14 +25,12 @@
  - Tableau Business Intelligence Analyst Professional Certificate
 
 
-
 ## Work Experience (In Data)
 **Data Analyst @ Advarra  (_December 2023 - Present_)**
 
 
-
 ## Projects
-_The following are projects that I have worked on over the course of my Data Science certification as well as in my personal free time to continue my education and practice. I do have additional Excel and Power BI work I have done in my current data analyst role upon request_
+_The following are projects that I have worked on over the course of my Data Science certification as well as in my free time to continue my education and data analysis practice. I do have additional Excel and Power BI work I have done in my current data analyst role upon request_
 
 
 ### IBM Data Science Certification projects
